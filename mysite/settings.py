@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.google',
     'allauth.socialaccount.providers.bitbucket',
     'allauth.socialaccount.providers.github',
+    'postman',
 
     # my apps
     'posts',
